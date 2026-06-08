@@ -1,6 +1,6 @@
-# SSD Performance Predictor — PyTorch
+# SSD Performance Predictor usign PyTorch
 
-A neural network that predicts SSD (Solid State Drive) performance metrics from telemetry measurements — useful for early warning systems, capacity planning, and storage health monitoring.
+A neural network that predicts SSD (Solid State Drive) performance metrics from telemetry measurements, useful for early warning systems, capacity planning, and storage health monitoring.
 
 ## The Problem
 
